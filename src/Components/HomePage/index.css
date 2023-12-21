@@ -1,0 +1,12 @@
+.homepage-main-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.homepage-sub-container {
+    padding: 30px 70px 0px 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
